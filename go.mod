@@ -1,6 +1,6 @@
 module github.com/TrueMerk/protos
 
-go 1.24.2
+go 1.24
 
 require (
 	google.golang.org/grpc v1.72.2
@@ -8,8 +8,8 @@ require (
 )
 
 require (
-	golang.org/x/net v0.35.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250218202821-56aae31c358a // indirect
+	golang.org/x/net v0.40.0 // indirect
+	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/text v0.25.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250519155744-55703ea1f237 // indirect
 )
